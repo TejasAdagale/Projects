@@ -1,0 +1,72 @@
+footer{
+    margin: 50px 0;
+}
+footer p{
+    text-align: end;
+}
+.autobio h2{
+    font-size: 40px;
+    font-weight:400;
+}
+.autobio ul{
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 50px;
+}
+.autobio{
+    margin:50 0 ;
+}
+
+.about{
+    margin-top: 50px;
+}
+.about h2{
+    font-size: 40px;
+    font-weight: 400;
+}
+.about p{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.image_con,img{
+    border-radius: 50%;
+    overflow: hidden;
+    width: 300px;
+    height: 300px;
+}
+
+.content{
+    max-width: 900px;
+    margin: auto;
+}
+
+.top_section{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+
+}
+.top_section h1{
+    font-size: 50px;
+    text-transform:uppercase;
+}
+.top_section h3{
+    text-align: end;
+    font-size: 30px;
+}
+
+* {
+    margin :0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    background-color:lightskyblue;
+    min-height: 100vh;
+    border: 10px solid black;
+}
